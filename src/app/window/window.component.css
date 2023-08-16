@@ -1,0 +1,17 @@
+.cutewindow {
+    background-color: rgb(199, 169, 227);
+    height: 75vh;
+    margin: 8rem 30rem 5rem 30rem;
+    border-radius: 2rem;
+}
+
+.list {
+    max-height: 70vh;
+    overflow-y: scroll;
+    height: fit-content;
+}
+
+.itemm {
+    font-size: 250%;
+    margin-left: 5rem;
+}
